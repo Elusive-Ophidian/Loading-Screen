@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "https://ibb.co/511fCN6";
+var l_serverImage = "images/logo.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
