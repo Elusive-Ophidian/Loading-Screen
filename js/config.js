@@ -54,7 +54,6 @@ var l_bgImages = [
 	"backgrounds/images/Bosses.jpg"
 	"backgrounds/images/eva.jpg"
 	"backgrounds/images/ohbp.jpg"
-	"backgrounds/images/ocelot.jpg"
 	"backgrounds/images/bbossback.jpg"
 ]
 
