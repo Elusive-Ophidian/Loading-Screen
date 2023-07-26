@@ -55,7 +55,7 @@ var l_bgImages = [
 	"backgrounds/images/eva.jpg",
 	"backgrounds/images/Bosses.jpg"
 	"backgrounds/images/ohbp.jpg",
-	"backgrounds/images/bbossback.jpg",
+	"backgrounds/images/bbossback.jpg"
 ]
 
 /*Random background images order?*/
