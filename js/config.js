@@ -52,7 +52,6 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/BigBoss.jpg",
 	"backgrounds/images/Bosses.jpg"
-	"backgrounds/images/eva.jpg"
 ]
 
 /*Random background images order?*/
