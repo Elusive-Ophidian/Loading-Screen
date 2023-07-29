@@ -106,7 +106,7 @@ var l_messages = [
 "Welcome to Outer Heaven RP",
 "Hope you enjoy!",
 "Let me know if there is anything I can improve.",
-"Be sure to talk to Tony near spawn if you have questions."
+"!motd to see rules, tips, and other useful things."
 ];
 
 /*Random message order?*/
